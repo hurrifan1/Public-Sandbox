@@ -30,3 +30,9 @@ Autogenerate 1000
 
  Comment Field Dim1 With "This is a field comment";
 
+
+[Adam Table]:
+LOAD * Inline [
+First Name, Last Name, Age
+Adam, Douche, 99
+];
